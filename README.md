@@ -81,19 +81,6 @@ roast-machine/
 
 ---
 
-## AI criteria covered
-
-- ✅ Working AI application
-- ✅ RAG + vector store (Chroma)
-- ✅ Guardrails + prompt injection defence
-- ✅ LangChain agentic framework
-- ✅ Multimodal input (text + image)
-- ✅ Chatbot with session memory
-- ✅ LangSmith tracing and monitoring
-- ✅ Deployed live on Streamlit Cloud
-
----
-
 ## Problem statement
 
 Existing AI chatbots are too polite and overly cautious - there's no tool that delivers sharp, witty, personalised humour while still maintaining guardrails against genuinely harmful content.
