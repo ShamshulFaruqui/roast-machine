@@ -96,8 +96,7 @@ roast-machine/
 
 ## Problem statement
 
-Existing AI chatbots are too polite and overly cautious — there's no tool that delivers sharp, witty, personalised humour while still maintaining guardrails against genuinely harmful content.
+Existing AI chatbots are too polite and overly cautious - there's no tool that delivers sharp, witty, personalised humour while still maintaining guardrails against genuinely harmful content.
 
 ---
 
-*Built for CST4625 Generative AI Hackathon*
